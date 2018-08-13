@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+h3 {
+  color:white;
+}
+h4 {
+  color: white;
+}
+p {
+  color: white;
+}
+#question {
+  border-radius: 10px;
+  background-color: white;
+}
+body {
+  background-color: black;
+}
